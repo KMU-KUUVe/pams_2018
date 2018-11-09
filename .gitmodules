@@ -4,3 +4,6 @@
 [submodule "state_cpp_msg"]
 	path = state_cpp_msg
 	url = https://github.com/KMU-KUUVe/state_cpp_msg.git
+[submodule "lane_detector"]
+	path = lane_detector
+	url = https://github.com/KMU-KUUVe/lane_detector.git
