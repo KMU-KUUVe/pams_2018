@@ -19,5 +19,5 @@ sudo make install
 - smach_viewer
 - [LMS1xx](https://github.com/clearpathrobotics/lms1xx)
 - [usb_cam](https://github.com/ros-drivers/usb_cam.git)
-- [obstacle_detector](git clone https://github.com/tysik/obstacle_detector.git)
+- [obstacle_detector](https://github.com/tysik/obstacle_detector.git)
 - [darknet_ros_msgs](https://github.com/leggedrobotics/darknet_ros)
