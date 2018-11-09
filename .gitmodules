@@ -7,3 +7,6 @@
 [submodule "lane_detector"]
 	path = lane_detector
 	url = https://github.com/KMU-KUUVe/lane_detector.git
+[submodule "ackermann_msgs"]
+	path = ackermann_msgs
+	url = https://github.com/KMU-KUUVe/ackermann_msgs.git
