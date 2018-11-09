@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>pams_2018</name>
+  <version>0.0.0</version>
+  <description>The pams_2018 package</description>
+
+  <maintainer email="kuuve@todo.todo">kuuve</maintainer>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+    <metapackage />
+  </export>
+</package>
