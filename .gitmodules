@@ -10,3 +10,6 @@
 [submodule "ackermann_msgs"]
 	path = ackermann_msgs
 	url = https://github.com/KMU-KUUVe/ackermann_msgs.git
+[submodule "platform_control"]
+	path = platform_control
+	url = https://github.com/KMU-KUUVe/platform_control.git
