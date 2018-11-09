@@ -13,3 +13,9 @@
 [submodule "platform_control"]
 	path = platform_control
 	url = https://github.com/KMU-KUUVe/platform_control.git
+[submodule "narrow_path"]
+	path = narrow_path
+	url = https://github.com/KMU-KUUVe/narrow_path.git
+[submodule "parking"]
+	path = parking
+	url = https://github.com/KMU-KUUVe/parking.git
