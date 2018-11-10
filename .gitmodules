@@ -19,3 +19,6 @@
 [submodule "narrow_path"]
 	path = narrow_path
 	url = https://github.com/KMU-KUUVe/narrow_path.git
+[submodule "crosswalk_stop"]
+	path = crosswalk_stop
+	url = https://github.com/KMU-KUUVe/crosswalk_stop.git
