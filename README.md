@@ -19,6 +19,11 @@ sudo make install
 ### apt-get install
 - smach_viewer 
 - serial
+## dependency package
+### apt-get install
+- smach_viewer
+- serial
+
 ### git
 - [LMS1xx](https://github.com/clearpathrobotics/lms1xx)
 - [usb_cam](https://github.com/ros-drivers/usb_cam.git)
