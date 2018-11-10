@@ -22,3 +22,6 @@
 [submodule "crosswalk_stop"]
 	path = crosswalk_stop
 	url = https://github.com/KMU-KUUVe/crosswalk_stop.git
+[submodule "u_turn"]
+	path = u_turn
+	url = https://github.com/KMU-KUUVe/u_turn.git
