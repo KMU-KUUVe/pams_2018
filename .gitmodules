@@ -16,3 +16,6 @@
 [submodule "parking"]
 	path = parking
 	url = https://github.com/KMU-KUUVe/parking.git
+[submodule "narrow_path"]
+	path = narrow_path
+	url = https://github.com/KMU-KUUVe/narrow_path.git
