@@ -25,3 +25,9 @@
 [submodule "u_turn"]
 	path = u_turn
 	url = https://github.com/KMU-KUUVe/u_turn.git
+[submodule "car_tracking"]
+	path = car_tracking
+	url = https://github.com/KMU-KUUVe/car_tracking.git
+[submodule "target_lane"]
+	path = target_lane
+	url = https://github.com/KMU-KUUVe/target_lane.git
