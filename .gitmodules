@@ -31,6 +31,3 @@
 [submodule "target_lane"]
 	path = target_lane
 	url = https://github.com/KMU-KUUVe/target_lane.git
-[submodule "darknet_ros"]
-	path = darknet_ros
-	url = https://github.com/hdh7485/darknet_ros.git
